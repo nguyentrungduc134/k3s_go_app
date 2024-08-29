@@ -4,9 +4,6 @@
    [Link](https://github.com/nguyentrungduc134/k3s_hetzner/tree/main/terraform)
 ## 2. Installing Grafana Monitoring
 
-### Overview
-This guide provides instructions to install and set up Grafana monitoring in a Kubernetes cluster using Helm. You will use the `k3s-monitoring` repository to deploy Prometheus and Grafana with pre-configured settings.
-
 ### Prerequisites
 - A running Kubernetes cluster (e.g., k3s).
 - Helm installed and configured.
